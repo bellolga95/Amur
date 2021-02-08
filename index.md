@@ -8,9 +8,7 @@ Your global marketing agency with engineering and economics background. We are a
 ```markdown
 
 
-# Header 1
-## Header 2
-### Header 3
+# We provide services such as:
 
 - Marketing Research
 - Data Visualizastion
