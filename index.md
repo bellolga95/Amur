@@ -19,7 +19,7 @@ Your global marketing agency with engineering and economics background. We are a
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://www.ning.com/blog/2018/09/market-research.html)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
