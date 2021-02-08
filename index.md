@@ -22,7 +22,7 @@ Your global marketing agency with engineering and economics background. We are a
 [Link](url) and ![Image](/Amur/assets/IMG_0044.jpg)
 ```
 
-![Image](Amur/assets/IMG_0044.jpg)
+![Image](/Amur/assets/IMG_0044.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
