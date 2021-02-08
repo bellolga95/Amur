@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Amur Marketing Agency
 
 You can use the [editor on GitHub](https://github.com/bellolga95/Amur/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
