@@ -19,7 +19,7 @@ Your global marketing agency with engineering and economics background. We are a
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](/assets/IMG_0044.jpg)
+[Link](url) and ![Image](Amur/assets/IMG_0044.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
