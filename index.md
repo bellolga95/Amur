@@ -2,22 +2,22 @@
 
 Your global marketing agency with engineering and economics background. We are a growing company lookiong to establish long-lasting relationships with businesses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Services
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Marketing Research
+- Data Visualizastion
+- Graphics Design Services
+- Logos & Banners
+- Brochures
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
